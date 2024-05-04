@@ -10,6 +10,9 @@ The lab video can be found at https://www.youtube.com/watch?v=MHsI8hJmggI&list=P
 - Windows 10 ISO
 - Windows Server 2019 ISO
 
+![Lab Diagram](images/diagram.png)
+
+
 ### Step 1: Configure Your Server 2019 Virtual Machine
 - Set up a VM in VirtualBox with Windows Server 2019.
 - Configure the VM to have two network adapters:
